@@ -70,7 +70,7 @@ int main() {
         }
     }
     else {
-        fileout<<"this sudoko is not solvable"<<endl;
+        fileout<<"This Sudoku is Not Solvable"<<endl;
     }
 
     fileout.close();
